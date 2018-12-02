@@ -7,6 +7,10 @@ This may change if I figure out what I am doing, there is genuine need, etc.
 https://www.reddit.com/r/datascience/comments/a2dt1w/any_examples_of_matched_market_testing_in_python/
 
 
+## Objective
+Port something resembling this code to python. 
+https://github.com/klarsen1/MarketMatching
+
 ## References
 
 ### Causal Impact Analysis
