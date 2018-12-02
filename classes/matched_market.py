@@ -1,0 +1,2 @@
+class MatchedMarket(object):
+    pass
