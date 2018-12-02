@@ -1,0 +1,2 @@
+class MatchedMarketInference(object):
+    pass
